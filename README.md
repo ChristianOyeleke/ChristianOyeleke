@@ -1,10 +1,9 @@
 
-# Hi, I'm Christian Oyeleke 👋
+# I'm Christian Oyeleke
 
-### Full-Stack Software Developer | Web Application Developer
+### Software Developer
 
-I'm a software developer passionate about building scalable, responsive, and user-focused web applications. I enjoy turning ideas into functional digital products, solving technical problems, and continuously improving my skills through practical projects.
-
+Creative-driven developer focused on design, clean code, and scalable applications.
 
 ## 📊 GitHub Statistics
 
