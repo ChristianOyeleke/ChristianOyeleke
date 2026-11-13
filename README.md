@@ -12,7 +12,7 @@
 
 ##### . 💞️ Looking to collaborate on projects involving React, Next.js, Node.js, TypeScript, and full-stack development.
 
-##### . 📫 How to reach me through GitHub or my professional email.
+##### . 📫 How to reach me: christianoyeleke8@gmail.com
 
 [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ChristianOyeleke&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
