@@ -14,15 +14,21 @@
 
 ##### . 📫 How to reach me: christianoyeleke8@gmail.com
 
-[GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ChristianOyeleke&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
-[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianOyeleke&theme=github_dark&hide_border=true&show_icons=true)
+## 🏆 GitHub Achievements
 
-[GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ChristianOyeleke&theme=github-dark-blue&hide_border=true)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ChristianOyeleke&theme=algolia&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ChristianOyeleke)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianOyeleke&theme=github_dark&hide_border=true&layout=compact)
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ChristianOyeleke&theme=github_dark&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ChristianOyeleke&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ChristianOyeleke&theme=github_dark&hide_border=true&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChristianOyeleke&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ## 🧰 Languages and Tools:
 
