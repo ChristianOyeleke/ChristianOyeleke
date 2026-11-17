@@ -1,4 +1,4 @@
-##### 👋 Hi, I'm Christian Oyeleke
+##### 👋 Hi, I'm Oyeleke Christian
 
 ##### . 👀 Passionate about software development, building scalable applications, and solving real-world problems through technology.
 
