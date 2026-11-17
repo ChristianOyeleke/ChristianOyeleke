@@ -4,6 +4,9 @@
 
 ##### . 🌱 Currently focused on Full-Stack Development using React.js, Next.js, Node.js, and Express.js.
 
+##### . 🌱 Willing to learn,grow and build
+
+
 ##### . 💻 Experienced in building responsive web applications, RESTful APIs, and integrating backend services.
 
 ##### . 🗄️ Working with MongoDB, PostgreSQL, Firebase, and Cloudinary.
